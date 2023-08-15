@@ -52,7 +52,7 @@ Basic installation and getting ready for hello world.
 
 2. **Vowel Counter**: Implement a function that counts the number of vowels in a given string. Prompt the user for a string and then use the function to determine the vowel count.
 
-Other: string length, concat, check and get substring.
+Other: string length, concat, check and get substring, split and join
 
 ### 07_arrays
 
