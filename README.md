@@ -1,4 +1,3 @@
-```
 # Learning any Programming Language through Sample Programs
 (Topics are my idea, description partially generated using ChatGPT)
 
@@ -108,4 +107,3 @@ If you find errors, have additional examples, or want to improve explanations, f
 ## License
 
 This repository is licensed under the MIT License license. See the [LICENSE](LICENSE) file for details.
-```
